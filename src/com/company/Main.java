@@ -13,7 +13,7 @@ public class Main
 
         System.out.println("Enter C for circle, R for rectangle, S for square:");
         String command = userInput.next();
-    }
+    
                 switch (command)
                 {
                     case "C":
